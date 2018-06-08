@@ -30,8 +30,8 @@
 ## kotlin
 * [whitespace debugger](https://gist.github.com/okwrtdsh/c8e36d485d7c57849935d788b97f19b4)
   * 関連
-  * [ksnctf 7. Programming write-up](index.html#https://gist.github.com/okwrtdsh/ac58a3caf158ad3d6b8c4bd1cba31e8a)
-  * [whitespace命令まとめ](index.html#https://gist.github.com/okwrtdsh/2e0ce698c0c2a50a7af110dd38f30a74)
+    * [ksnctf 7. Programming write-up](index.html#https://gist.github.com/okwrtdsh/ac58a3caf158ad3d6b8c4bd1cba31e8a)
+    * [whitespace命令まとめ](index.html#https://gist.github.com/okwrtdsh/2e0ce698c0c2a50a7af110dd38f30a74)
 
 ## その他
 * [メモ](https://okwrtdsh.github.io/tips/)
