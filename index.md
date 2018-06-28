@@ -25,6 +25,9 @@
 * [簡単なflaskアプリ](https://github.com/okwrtdsh/docker_simple_flaskapp)
 * [Djangoアプリ](https://github.com/okwrtdsh/docker_djangoapp)
 * [DeepLearning, DataScience](https://github.com/okwrtdsh/anaconda3)
+  * **なぜか中国でPytorch用に使われている...**
+  * https://kknews.cc/other/egogjnr.html
+  * https://op46.com/technique/61863be098cd83396390df7ba045225b.html
 * [GUI, wine, pidet](https://github.com/okwrtdsh/dockerfiles)
 
 ## kotlin
