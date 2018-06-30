@@ -6,6 +6,10 @@
 * [Twitter (@okwrtdsh)](https://twitter.com/okwrtdsh)
 * [Github (okwrtdsh)](https://github.com/okwrtdsh/)
 
+## OSS
+* [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
+  * [tensorboardのversionアップに伴うtensorboard用のcallbackの修正](https://github.com/apache/incubator-mxnet/pull/11426)
+
 ## [OUCC(Osaka University Computer Club)](http://oucc.org/)
 * [OUCCアドベントカレンダー2015 3日目](index.html#https://gist.githubusercontent.com/okwrtdsh/9f4f0ab95d0c34349468/raw/8b8fb1390deef2593d1d4b79adc94b872acd74c5/advent_calendar20151203.md)
 * [OUCCアドベントカレンダー2015 8日目](index.html#https://gist.githubusercontent.com/okwrtdsh/af9169f2ff9a02a3cfa7/raw/f0ff9b8718783124d0f2a97f9cfa4bb079883605/advent_calendar20151208.md)
