@@ -5,10 +5,15 @@
 * Python/Django/JavaScript
 * [Twitter (@okwrtdsh)](https://twitter.com/okwrtdsh)
 * [Github (okwrtdsh)](https://github.com/okwrtdsh/)
+* [Hatena Blog (okwrtdsh)](http://okwrtdsh.hatenablog.com/)
 
 ## OSS
 * [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
   * [tensorboardのversionアップに伴うtensorboard用のcallbackの修正](https://github.com/apache/incubator-mxnet/pull/11426)
+* Ruby
+  * [Bug #15200: RubyVM::InstructionSequence can not compile to binary from method call with hash in 'if false' expression](https://bugs.ruby-lang.org/issues/15200)
+  * インターン中にbugを踏み抜いた...
+  * bootsnapを使ったRailsで、デバックのためControllerでif falseでredirect_toしたらRubyがクラッシュするという
 
 ## [OUCC(Osaka University Computer Club)](http://oucc.org/)
 * [OUCCアドベントカレンダー2015 3日目](index.html#https://gist.githubusercontent.com/okwrtdsh/9f4f0ab95d0c34349468/raw/8b8fb1390deef2593d1d4b79adc94b872acd74c5/advent_calendar20151203.md)
