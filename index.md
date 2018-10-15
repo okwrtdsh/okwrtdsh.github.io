@@ -5,7 +5,7 @@
 * Python/Django/JavaScript
 * [Twitter (@okwrtdsh)](https://twitter.com/okwrtdsh)
 * [Github (okwrtdsh)](https://github.com/okwrtdsh/)
-* [Hatena Blog (okwrtdsh)](http://okwrtdsh.hatenablog.com/)
+* [Hatena Blog (okwrtdsh)](https://okwrtdsh.hatenablog.com/)
 
 ## OSS
 * [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
